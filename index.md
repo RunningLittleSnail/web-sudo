@@ -1,4 +1,4 @@
-# 乐智app接口文档
+# 接口文档
 
 ## 文档说明
 
@@ -40,7 +40,7 @@ https://g.com/api/book/types
   "data": [
     {
       "id": 1,
-      "name": "儿童绘本",
+      "name": "",
     }
   ]
 }
@@ -49,7 +49,7 @@ https://g.com/api/book/types
 
 #### 地址
 
-https://.com/api/book/readtypes
+https://.com/api/book/
 
 #### 请求
 
@@ -67,7 +67,7 @@ https://.com/api/book/readtypes
   "data": [
     {
       "id": 1,
-      "name": "教育部推荐必读书目",
+      "name": "",
     }
   ]
 }
